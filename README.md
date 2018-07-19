@@ -8,9 +8,3 @@ C# Fundamentals
 <br/>
 <br/>
 <br/>
-
-<h2> Certificate </h2>
-
-|**Course**|**Link**| 
-|---|---|
-|<a href="https://softuni.bg/trainings/1985/database-basics-mssql-may-2018/internal" > Database Basics – MS SQL </a>   | <a href="https://softuni.bg/certificates/details/55509/6eb59dbe"> Link</a> |
