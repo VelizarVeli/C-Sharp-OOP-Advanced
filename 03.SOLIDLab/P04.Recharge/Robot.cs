@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace P04.Recharge
 {
@@ -21,7 +21,7 @@ namespace P04.Recharge
         {
             get { return this.currentPower; }
             set { this.currentPower = value; }
-        }
+        } 
 
         public void Work(int hours)
         {
