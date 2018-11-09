@@ -3,7 +3,7 @@ using Logger.Models.Contracts;
 
 namespace Logger.Models
 {
-    public class SimpleLayout:ILayout
+    public class SimpleLayout : ILayout
     {
         const string DateFormat = "M/d/yyyy h:mm:ss tt";
 

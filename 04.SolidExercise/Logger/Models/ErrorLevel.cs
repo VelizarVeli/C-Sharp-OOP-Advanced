@@ -2,6 +2,10 @@
 {
     public enum ErrorLevel
     {
-        INFO, WARNING, ERROR, CRITICAL, FATAL
+        INFO,
+        WARNING,
+        ERROR,
+        CRITICAL,
+        FATAL
     }
 }

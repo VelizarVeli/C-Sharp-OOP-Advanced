@@ -2,7 +2,7 @@
 
 namespace Logger.Models.Contracts
 {
-    public interface IError:ILevelable
+    public interface IError : ILevelable
     {
         DateTime DateTime { get; }
 
