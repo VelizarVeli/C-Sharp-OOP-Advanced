@@ -13,17 +13,4 @@ C# Fundamentals
 
 |**Course**|**Link**| 
 |---|---|
-|<a href="https://softuni.bg/trainings/2085/csharp-oop-advanced-november-2018 > C# OOP Basics </a>   | <a href="https://softuni.bg/certificates/details/61773/4ff25f3e"> Link</a> |
-
-
-
-
-<br/>
-<br/>
-<br/>
-
-<h2> Certificate </h2>
-
-|**Course**|**Link**| 
-|---|---|
-|<a href="https://softuni.bg/trainings/1842/csharp-oop-basics-february-2018" > C# OOP Basics </a>   | <a href="https://softuni.bg/certificates/details/53621/790c0569"> Link</a> |
+|<a href="https://softuni.bg/trainings/2085/csharp-oop-advanced-november-2018" > C# OOP Advanced </a>   | <a href="https://softuni.bg/certificates/details/61773/4ff25f3e"> Link</a> |
