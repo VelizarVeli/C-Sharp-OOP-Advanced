@@ -8,3 +8,9 @@ C# Fundamentals
 <br/>
 <br/>
 <br/>
+
+<h2> Certificate </h2>
+
+|**Course**|**Link**| 
+|---|---|
+|<a href="https://softuni.bg/trainings/2085/csharp-oop-advanced-november-2018> C# OOP Basics </a>   | <a href="https://softuni.bg/certificates/details/61773/4ff25f3e> Link</a> |
